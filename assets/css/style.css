@@ -63,7 +63,6 @@ h6 {
 
 .fixed-header {
     position: relative;
-    border-bottom: 1px solid #ccc;
     max-width: 1315.42px;
     margin: 0 auto;
 }
@@ -109,6 +108,14 @@ h6 {
     width: 66px;
     height: 2px;
     background-color: #000;
+}
+
+.hr {
+    width: 640px;
+    height: 2px;
+    background-color: #000;
+    margin: 0 auto;
+    margin-top: 34px;
 }
 
 /* Main */
